@@ -57,8 +57,11 @@ This project helped me gain hands-on experience in:
 ## 🔗 Links
 
 📁 [View Full Notebook](https://github.com/AkiqkI/videogamesales/blob/main/videogamesales.ipynb)
+
 🌐 [Portfolio Website](https://akiqki.github.io/my-portfolio)
+
 💻 [GitHub Profile](https://github.com/AkiqkI)
+
 📫 cristina.gutier@gmail.com
 
 ---
