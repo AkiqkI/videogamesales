@@ -50,16 +50,15 @@ This project helped me gain hands-on experience in:
 - Preparing raw data for analysis
 - Visualizing trends with charts and plots
 - Identifying actionable patterns across platforms and regions
-- Testing statistical hypotheses
+- Testing statistical hypotheses0 
 - Delivering strategic business recommendations
 
 ---
-
 ## 🔗 Links
 
 📁 [View Full Notebook](https://github.com/AkiqkI/videogamesales/blob/main/videogamesales.ipynb)
-🌐 [Portfolio Website](https://akiqki.github.io/my-portfolio/)  
-💻 [GitHub Profile](https://github.com/AkiqkI)  
+🌐 [Portfolio Website](https://akiqki.github.io/my-portfolio)
+💻 [GitHub Profile](https://github.com/AkiqkI)
 📫 cristina.gutier@gmail.com
 
 ---
