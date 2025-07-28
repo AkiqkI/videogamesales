@@ -66,4 +66,4 @@ This project helped me gain hands-on experience in:
 
 ## 🤝 Let’s Connect
 
-If you’re working on data science for games, digital commerce, or consumer analytics, I’d love to connect and collaborate!
+If you’re working on data science I’d love to connect and collaborate!
