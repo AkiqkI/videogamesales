@@ -44,20 +44,6 @@ In this project, I analyzed historical video game sales data to identify the key
 
 ---
 
-## 📂 Repository Structure
-
-📦 video-game-sales-forecasting/
-┣ 📊 data/
-┣ 📈 notebooks/
-┣ 📄 video_game_forecasting.ipynb
-┗ README.md
-
-yaml
-Copiar
-Editar
-
----
-
 ## 💡 Summary
 
 This project helped me gain hands-on experience in:
@@ -71,9 +57,9 @@ This project helped me gain hands-on experience in:
 
 ## 🔗 Links
 
-📁 [View Full Notebook](URL-to-your-notebook-here)  
-🌐 [Portfolio Website](https://your-portfolio-link.com)  
-💻 [GitHub Profile](https://github.com/yourusername)  
+📁 [View Full Notebook](https://github.com/AkiqkI/videogamesales/blob/main/videogamesales.ipynb)
+🌐 [Portfolio Website](https://akiqki.github.io/my-portfolio/)  
+💻 [GitHub Profile](https://github.com/AkiqkI)  
 📫 cristina.gutier@gmail.com
 
 ---
